@@ -22,6 +22,10 @@ Los invito a acompañarme en este camino y dejo mis repositorios por si les inte
 
 Gracias si leiste hasta aca! y cualquier critica constructiva me servira muchisimo 
 
+where to find me 
+ovnicrofordz@gmail.com
++54-2235977743
+
 Saludos! 😃
 <!--
 **falchon100/falchon100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

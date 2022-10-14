@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/6d9daf46e1471c86336408c9c604ed528e3caa74df88e5b9c4c2711a23f54cfb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d696775656c2d6c61636f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d313930656234267374796c653d706c6173746963
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="miguel-laco" /> </p>
 
 ### Hola me llamo Angel San luis soy de Mar del Plata!  👋
 

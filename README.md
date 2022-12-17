@@ -2,7 +2,7 @@
 
 ### Hola me llamo Angel San luis soy de Mar del Plata!  👋
 
-Actualmente me encuentro cursando la carrera Desarrollo Frontend- React  en Coderhouse
+Actualmente finalice la carrera Desarrollo Frontend- React  en Coderhouse
 
 Y posiblemente termine haciendo Backend para luego terminar Desarrollo Full Stack
 

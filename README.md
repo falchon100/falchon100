@@ -1,10 +1,7 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="miguel-laco" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="Angel-San-luis" /> </p>
 
 ### Hola me llamo Angel San luis soy de Mar del Plata!  👋
-
-Actualmente finalice la carrera Desarrollo Frontend- React  en Coderhouse
-
-Y posiblemente termine haciendo Backend para luego terminar Desarrollo Full Stack
+Actualmente me encuentro cursando Backend en Coderhouse 
 
 Soy tecnico informatico 💻 ... Mi primera experiencia con la programacion fue en la secundaria... utilizando programas como Pascal / Delphi y Flash entre otros
 
